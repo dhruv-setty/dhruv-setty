@@ -25,4 +25,12 @@ IAM Practitioner in Auckland, New Zealand. Identity governance and access contro
 
 #### Elsewhere
 
-[Portfolio](https://whatheheckisthis.github.io) · [Journal](https://whatheheckisthis.github.io/blog/) · [LinkedIn](https://www.linkedin.com/in/its-dhruv-setty)
+<p>
+  <a href="https://whatheheckisthis.github.io"><img src="assets/portfolio.png" alt="" width="20" height="20" align="absmiddle"> Portfolio</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://whatheheckisthis.github.io/blog/"><img src="assets/portfolio.png" alt="" width="20" height="20" align="absmiddle"> Journal</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/its-dhruv-setty"><img src="assets/linkedin.png" alt="" width="20" height="20" align="absmiddle"> LinkedIn</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://buymeacoffee.com/dhruvsetty"><img src="assets/buymeacoffee.png" alt="" width="20" height="20" align="absmiddle"> Buy me a coffee</a>
+</p>
