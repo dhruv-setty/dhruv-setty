@@ -53,5 +53,9 @@ Outside identity, I study how systems enforce isolation and correctness below th
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://substack.com/@dhruvsetty"><img src="assets/substack.svg" alt="" width="20" height="20" align="absmiddle"> Substack</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.kaggle.com/dhruvsetty"><img src="assets/kaggle.svg" alt="" width="20" height="20" align="absmiddle"> Kaggle</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://huggingface.co/itsdhruvsetty"><img src="assets/huggingface.svg" alt="" width="20" height="20" align="absmiddle"> Hugging Face</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://buymeacoffee.com/dhruvsetty"><img src="assets/buymeacoffee.png" alt="" width="20" height="20" align="absmiddle"> Buy me a coffee</a>
 </p>
