@@ -40,9 +40,7 @@ Outside identity, I study how systems enforce isolation and correctness below th
 
 #### Certifications
 
-- Microsoft Certified: Security Operations Analyst Associate, SC-200
-- Microsoft Certified: Azure Security Engineer Associate, AZ-500
-- Microsoft Certified: Azure Fundamentals, AZ-900
+- Introduction to Cloud Architecture (NZQA micro-credential), Unitec / Te Pūkenga, 2025
 
 #### Elsewhere
 
@@ -50,6 +48,10 @@ Outside identity, I study how systems enforce isolation and correctness below th
   <a href="https://dhruv-setty.github.io">Portfolio</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/dhruv-setty-nz"><img src="assets/linkedin.png" alt="" width="20" height="20" align="absmiddle"> LinkedIn</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/33327882/dhruvsetty"><img src="assets/stackoverflow.svg" alt="" width="20" height="20" align="absmiddle"> Stack Overflow</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://substack.com/@dhruvsetty"><img src="assets/substack.svg" alt="" width="20" height="20" align="absmiddle"> Substack</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://buymeacoffee.com/dhruvsetty"><img src="assets/buymeacoffee.png" alt="" width="20" height="20" align="absmiddle"> Buy me a coffee</a>
 </p>
