@@ -28,15 +28,15 @@ My aim is simple. Every account should have the access its role needs, nothing m
 
 | Project | Area | Stack |
 | --- | --- | --- |
-| [Identity governance for legacy Linux file systems](https://github.com/whatheheckisthis/Intent-Auditable-Trust-Object-V3) | IGA | SailPoint IdentityIQ · Java · JBoss EAP 7 |
-| [Entra ID sign in for Debian with SSSD](https://github.com/whatheheckisthis/Intent-Auditable-Trust-Object-V2) | IAM | Entra ID · SSSD · OAuth 2.0 · C# |
+| [Identity governance for legacy Linux file systems](https://github.com/dhruv-setty/Intent-Auditable-Trust-Object-V3) | IGA | SailPoint IdentityIQ · Java · JBoss EAP 7 |
+| [Entra ID sign in for Debian with SSSD](https://github.com/dhruv-setty/Intent-Auditable-Trust-Object-V2) | IAM | Entra ID · SSSD · OAuth 2.0 · C# |
 
 #### Special interests
 
 Outside identity, I study how systems enforce isolation and correctness below the operating system.
 
-- **Arm virtualisation and formal methods.** [Stage 2 translation and TLB maintenance](https://github.com/whatheheckisthis/Intent-to-Auditable-Trust-Object-v7), modelled in Sail, TLA+ and SystemVerilog.
-- **Accelerated inference.** [Split SPDE-GMRF inference for lane perception](https://github.com/whatheheckisthis/android-opencv-lanedetection-master) across GPU and edge targets with cuDSS, cuSPARSE and CMSIS-NN.
+- **Arm virtualisation and formal methods.** [Stage 2 translation and TLB maintenance](https://github.com/dhruv-setty/Intent-to-Auditable-Trust-Object-v7), modelled in Sail, TLA+ and SystemVerilog.
+- **Accelerated inference.** [Split SPDE-GMRF inference for lane perception](https://github.com/dhruv-setty/android-opencv-lanedetection-master) across GPU and edge targets with cuDSS, cuSPARSE and CMSIS-NN.
 
 #### Certifications
 
@@ -47,7 +47,7 @@ Outside identity, I study how systems enforce isolation and correctness below th
 #### Elsewhere
 
 <p>
-  <a href="https://whatheheckisthis.github.io">Portfolio</a>
+  <a href="https://dhruv-setty.github.io">Portfolio</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/its-dhruv-setty"><img src="assets/linkedin.png" alt="" width="20" height="20" align="absmiddle"> LinkedIn</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
