@@ -49,7 +49,7 @@ Outside identity, I study how systems enforce isolation and correctness below th
 <p>
   <a href="https://dhruv-setty.github.io">Portfolio</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/its-dhruv-setty"><img src="assets/linkedin.png" alt="" width="20" height="20" align="absmiddle"> LinkedIn</a>
+  <a href="https://www.linkedin.com/in/dhruv-setty-nz"><img src="assets/linkedin.png" alt="" width="20" height="20" align="absmiddle"> LinkedIn</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://buymeacoffee.com/dhruvsetty"><img src="assets/buymeacoffee.png" alt="" width="20" height="20" align="absmiddle"> Buy me a coffee</a>
 </p>
