@@ -4,9 +4,15 @@
 
 #### About me
 
-I work the front line. For a user, the service desk is IT: the first voice they hear when they can't sign in, the ticket that says what was tried, and the update that tells them it's fixed. I want to do that job well, in an environment where I can learn the tools and the people properly.
+IT support professional with a service desk focus, working to Service Level Agreements (SLAs) and ITIL practice to keep users productive.
 
-Day to day that means logging, categorising and prioritising every incident and request in ServiceNow, resolving password, MFA, account and Microsoft 365 issues at first contact by following the knowledge base, and escalating to Level 2 with the steps tried and the impact recorded, so nobody has to ask the user twice.
+Across multiple contracts with enterprise, government and SME clients, I have delivered frontline support: logging, prioritising and escalating incidents and requests in ServiceNow to resolver groups within agreed SLAs, and supporting Microsoft 365 users through account, access and password requests and new-user onboarding.
+
+I work to ITIL incident, request and escalation processes and focus on the service desk KPIs that matter: first contact resolution, response and resolution times, ticket quality and customer satisfaction. I translate technical issues into clear next steps for users and stakeholders.
+
+My work in regulated, identity-sensitive environments includes KYC and AML/CFT checks in retail banking and patient identity reconciliation under the Health Information Privacy Code. That work shaped my transition into the IT sector, with a growing interest in Identity and Access Management (IAM) and Identity Governance and Administration (IGA): joiner, mover and leaver processes, least-privilege access, access reviews and audit-ready controls.
+
+Open to service desk, IT support and IAM-focused roles in Auckland.
 
 #### How I work a ticket
 
