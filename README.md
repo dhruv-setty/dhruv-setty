@@ -41,15 +41,9 @@ I come from identity-sensitive roles: KYC and AML/CFT checks in retail banking, 
 
 #### Writing
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://dhruvsetty.substack.com/p/from-intent-to-evidence-building"><img src="assets/post-intent-to-evidence.svg" alt="From Intent to Evidence: Building Identity Controls That Leave Proof" width="100%"></a>
-      <br><b><a href="https://dhruvsetty.substack.com/p/from-intent-to-evidence-building">From Intent to Evidence</a></b>
-      <br><sub>Building identity controls that leave proof an auditor can test.</sub>
-    </td>
-  </tr>
-</table>
+<a href="https://dhruvsetty.substack.com/p/zero-trust-starts-in-the-silicon"><img src="assets/post-zero-trust-silicon.svg" alt="Zero Trust Starts in the Silicon: Cobalt 200, Neoverse V3 and GDPR" width="420"></a>
+
+<sub>Following zero trust below the identity layer, down to the chip that enforces it.</sub>
 
 #### Outside work
 
