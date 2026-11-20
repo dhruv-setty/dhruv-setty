@@ -44,7 +44,7 @@ Most Level 1 tickets are identity tickets: a locked account, an expired password
 Outside work I study how systems stay correct under the hood. It is a hobby, and it shows up on the desk as a habit: reproduce the fault, isolate it, write down exactly what happened.
 
 - **Arm virtualisation and formal methods.** [Stage 2 translation and TLB maintenance](https://github.com/dhruv-setty/arm-el2-stage2-tlb-verification) and [cache coherence and PCIe ordering](https://github.com/dhruv-setty/arm-coherence-pcie-formal-rtl), modelled in Sail, TLA+ and SystemVerilog.
-- **Accelerated inference.** [Split SPDE-GMRF inference for lane perception](https://github.com/dhruv-setty/SPDE-GMRF) across GPU and edge targets.
+- **Accelerated inference.** [Split SPDE-GMRF inference for lane perception](https://github.com/dhruv-setty/spde-gmrf-lane-perception) across GPU and edge targets.
 - **Design.** A degree in interactive media design, which is why my knowledge base articles and user updates are written in plain language.
 
 #### Certifications
