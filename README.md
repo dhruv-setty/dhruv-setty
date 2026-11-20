@@ -1,12 +1,20 @@
 ### Dhruv Setty
 
-**IAM Practitioner · Identity and Access Management · Identity Governance and Administration**
+**IT Support & Identity Administration · Level 1 Service Desk · Auckland, NZ**
 
 #### About me
 
-I am an IAM Practitioner based in Tāmaki Makaurau, working on identity and access management and identity governance across Microsoft Entra ID and on-premises Active Directory. I came to technology from interactive media and design, and I bring the same habit to identity: start from first principles, ask why an access path exists, and keep asking until the answer is backed by evidence.
+I work the front line. For a user, the service desk is IT: the first voice they hear when they can't sign in, the ticket that says what was tried, and the update that tells them it's fixed. I want to do that job well, in an environment where I can learn the tools and the people properly.
 
-My aim is simple. Every account should have the access its role needs, nothing more, and every decision about that access should be traceable to a request, an approver and a review.
+Day to day that means logging, categorising and prioritising every incident and request in ServiceNow, resolving password, MFA, account and Microsoft 365 issues at first contact by following the knowledge base, and escalating to Level 2 with the steps tried and the impact recorded, so nobody has to ask the user twice.
+
+#### How I work a ticket
+
+1. **Verify the caller** before any account change, the same control I apply to every KYC check at Kiwibank and NZ Post.
+2. **Log and categorise** it so the queue, the SLA clock and the reporting are right from the start.
+3. **Resolve at first contact** where the knowledge base allows: resets, unlocks, MFA re-registration, licensing, Outlook and Teams.
+4. **Escalate cleanly** when it needs Level 2: symptoms, steps tried, user impact, and what I'd check next.
+5. **Close the loop:** confirm the fix with the user, close the ticket, and update the knowledge base when an article was missing or wrong.
 
 <p align="center">
   <picture>
@@ -15,28 +23,23 @@ My aim is simple. Every account should have the access its role needs, nothing m
   </picture>
 </p>
 
-#### Focus: IAM and IGA
+#### Why identity, and why it makes me a better Level 1
 
-- **Identity lifecycle.** Joiner, mover and leaver processes that grant access from the role, adjust it when the role changes and remove it promptly on exit.
-- **Access governance.** Access certification campaigns, entitlement management, role design and separation of duties controls, with SailPoint IdentityIQ as the governance platform.
-- **Hybrid identity.** Entra ID and Active Directory managed as one directory, with Conditional Access, MFA and Azure RBAC aligned to least privilege.
-- **Privileged access.** Privileged roles mapped, reviewed and kept to the smallest standing set.
-- **Federation and authentication.** SAML, OpenID Connect and OAuth 2.0 integrations that extend single sign-on to Linux and cloud workloads.
-- **Access assurance.** Controls tested against system evidence, with each finding traced to its source and the requirement it tests.
+Most Level 1 tickets are identity tickets: a locked account, an expired password, a new phone that broke MFA, a starter who needs access on day one, a leaver whose access has to go today. My projects are how I learned what sits behind those tickets, so I can fix more of them first time and escalate the rest with the right detail.
 
-#### Selected work
-
-| Project | Area | Stack |
-| --- | --- | --- |
-| [Identity governance for legacy Linux file systems](https://github.com/dhruv-setty/Intent-Auditable-Trust-Object-V3) | IGA | SailPoint IdentityIQ · Java · JBoss EAP 7 |
-| [Entra ID sign in for Debian with SSSD](https://github.com/dhruv-setty/Intent-Auditable-Trust-Object-V2) | IAM | Entra ID · SSSD · OAuth 2.0 · C# |
+| What I built | What it means on the desk |
+| --- | --- |
+| [Read-only Entra ID and Graph exports](https://github.com/dhruv-setty/entra-graph-readonly-exports) | Answer "who has access to what" in minutes from a read-only export, instead of clicking through admin centres. Nothing it runs can change the tenant. |
+| [Entra ID sign in for Debian with SSSD](https://github.com/dhruv-setty/entra-id-debian-sssd) | Knowing that an account disabled at the desk loses server access at its next sign-in, and why, so I can tell the user the truth about timing. |
+| [Identity governance for legacy Linux file systems](https://github.com/dhruv-setty/sailpoint-iiq-linux-fs-governance) | Starter, mover and leaver requests done right first time: old access removed before new access is granted. |
 
 #### Special interests
 
-Outside identity, I study how systems enforce isolation and correctness below the operating system.
+Outside work I study how systems stay correct under the hood. It is a hobby, and it shows up on the desk as a habit: reproduce the fault, isolate it, write down exactly what happened.
 
-- **Arm virtualisation and formal methods.** [Stage 2 translation and TLB maintenance](https://github.com/dhruv-setty/Intent-to-Auditable-Trust-Object-v7), modelled in Sail, TLA+ and SystemVerilog.
-- **Accelerated inference.** [Split SPDE-GMRF inference for lane perception](https://github.com/dhruv-setty/android-opencv-lanedetection-master) across GPU and edge targets with cuDSS, cuSPARSE and CMSIS-NN.
+- **Arm virtualisation and formal methods.** [Stage 2 translation and TLB maintenance](https://github.com/dhruv-setty/arm-el2-stage2-tlb-verification) and [cache coherence and PCIe ordering](https://github.com/dhruv-setty/arm-coherence-pcie-formal-rtl), modelled in Sail, TLA+ and SystemVerilog.
+- **Accelerated inference.** [Split SPDE-GMRF inference for lane perception](https://github.com/dhruv-setty/SPDE-GMRF) across GPU and edge targets.
+- **Design.** A degree in interactive media design, which is why my knowledge base articles and user updates are written in plain language.
 
 #### Certifications
 
