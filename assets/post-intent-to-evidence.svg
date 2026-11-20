@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="320" viewBox="0 0 640 320">
+  <rect width="640" height="320" fill="#ffffff"/>
+  <rect x="0.5" y="0.5" width="639" height="319" fill="none" stroke="#111111"/>
+  <rect x="0" y="0" width="8" height="320" fill="#D9480F"/>
+  <text x="40" y="56" font-family="Helvetica, Arial, sans-serif" font-size="14" letter-spacing="2" fill="#D9480F">SUBSTACK · IDENTITY</text>
+  <text x="40" y="120" font-family="Helvetica, Arial, sans-serif" font-size="36" font-weight="700" fill="#111111">From Intent to Evidence</text>
+  <text x="40" y="168" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#111111">Building identity controls</text>
+  <text x="40" y="198" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#111111">that leave proof</text>
+  <text x="40" y="276" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#555552">Dhruv Setty · Read on Substack →</text>
+</svg>

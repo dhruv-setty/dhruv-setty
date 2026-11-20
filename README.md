@@ -39,6 +39,18 @@ I come from identity-sensitive roles: KYC and AML/CFT checks in retail banking, 
 | [Entra ID sign in for Debian with SSSD](https://github.com/dhruv-setty/entra-id-debian-sssd) | Shows how a disabled account loses server access, so users get accurate timing. |
 | [Identity governance for legacy Linux file systems](https://github.com/dhruv-setty/sailpoint-iiq-linux-fs-governance) | Starter, mover and leaver changes with old access removed before new access is granted. |
 
+#### Writing
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://dhruvsetty.substack.com/p/from-intent-to-evidence-building"><img src="assets/post-intent-to-evidence.svg" alt="From Intent to Evidence: Building Identity Controls That Leave Proof" width="100%"></a>
+      <br><b><a href="https://dhruvsetty.substack.com/p/from-intent-to-evidence-building">From Intent to Evidence</a></b>
+      <br><sub>Building identity controls that leave proof an auditor can test.</sub>
+    </td>
+  </tr>
+</table>
+
 #### Outside work
 
 Personal interests, kept separate from my professional focus:
