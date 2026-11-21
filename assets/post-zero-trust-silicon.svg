@@ -3,7 +3,8 @@
   <rect x="0.5" y="0.5" width="639" height="319" fill="none" stroke="#111111"/>
   <rect x="0" y="0" width="8" height="320" fill="#D9480F"/>
   <text x="40" y="56" font-family="Helvetica, Arial, sans-serif" font-size="14" letter-spacing="2" fill="#D9480F">SUBSTACK · ESSAY</text>
-  <text x="40" y="120" font-family="Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#111111">Zero Trust Starts in the Silicon</text>
-  <text x="40" y="168" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#111111">Cobalt 200, Neoverse V3 and GDPR</text>
+  <text x="40" y="118" font-family="Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#111111">Zero Trust Starts</text>
+  <text x="40" y="160" font-family="Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#111111">in the Silicon</text>
+  <text x="40" y="206" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#111111">Cobalt 200, Neoverse V3 and GDPR</text>
   <text x="40" y="276" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#555552">Dhruv Setty · Read on Substack →</text>
 </svg>

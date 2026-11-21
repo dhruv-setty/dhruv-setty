@@ -37,18 +37,20 @@ I come from identity-sensitive roles: KYC and AML/CFT checks in retail banking, 
 | --- | --- |
 | [Read-only Entra ID and Graph exports](https://github.com/dhruv-setty/entra-graph-readonly-exports) | Answers "who has access to what" from a read-only export, without changing the tenant. |
 | [Entra ID sign in for Debian with SSSD](https://github.com/dhruv-setty/entra-id-debian-sssd) | Shows how a disabled account loses server access, so users get accurate timing. |
-| [Identity governance for legacy Linux file systems](https://github.com/dhruv-setty/sailpoint-iiq-linux-fs-governance) | Starter, mover and leaver changes with old access removed before new access is granted. |
+| [Identity governance for legacy Linux file shares](https://github.com/dhruv-setty/sailpoint-iiq-linux-fs-governance) | Starter, mover and leaver changes with old access removed before new access is granted. |
 
 #### Writing
 
-<a href="https://dhruvsetty.substack.com/p/zero-trust-starts-in-the-silicon"><img src="assets/post-zero-trust-silicon.svg" alt="Zero Trust Starts in the Silicon: Cobalt 200, Neoverse V3 and GDPR" width="420"></a>
-
-<sub>Following zero trust below the identity layer, down to the chip that enforces it.</sub>
+<p>
+  <a href="https://dhruvsetty.substack.com/p/from-intent-to-evidence-building"><img src="assets/post-intent-to-evidence.svg" alt="From Intent to Evidence: Building Identity Controls That Leave Proof" width="32%"></a>
+  <a href="https://dhruvsetty.substack.com/p/zero-trust-starts-in-the-silicon"><img src="assets/post-zero-trust-silicon.svg" alt="Zero Trust Starts in the Silicon: Cobalt 200, Neoverse V3 and GDPR" width="32%"></a>
+  <a href="https://dhruvsetty.substack.com/p/azure-boost-and-the-zero-trust-io"><img src="assets/post-azure-boost-io.svg" alt="Azure Boost and the Zero-Trust I/O Path Under GDPR" width="32%"></a>
+</p>
 
 #### Outside work
 
-- **Embedded systems engineering.** [Stage 2 translation and TLB maintenance](https://github.com/dhruv-setty/arm-el2-stage2-tlb-verification) and [cache coherence and PCIe ordering](https://github.com/dhruv-setty/arm-coherence-pcie-formal-rtl) on Arm.
-- **Scaling AI chips.** How inference splits across accelerators and edge devices, explored in [split SPDE-GMRF inference for lane perception](https://github.com/dhruv-setty/spde-gmrf-lane-perception).
+- **Embedded systems engineering.** [Stage 2 translation and TLB maintenance](https://github.com/dhruv-setty/arm-el2-stage2-tlb-verification) and [PCIe, DMA and TLB hardware with formal checks](https://github.com/dhruv-setty/arm-coherence-pcie-formal-rtl) on Arm.
+- **Scaling AI chips.** How inference splits across accelerators and edge devices, explored in [Split SPDE-GMRF inference for lane perception](https://github.com/dhruv-setty/spde-gmrf-lane-perception).
 
 #### Certifications
 
