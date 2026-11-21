@@ -38,7 +38,7 @@ I come from identity-sensitive roles: KYC and AML/CFT checks in retail banking, 
 | [Entra ID sign in for Debian with SSSD](https://github.com/dhruv-setty/entra-id-sign-in-for-debian-with-sssd) | A C# (.NET 8) command line tool that configures Debian hosts to authenticate Microsoft Entra ID users through the SSSD `idp` provider. |
 | [Identity governance for legacy Linux file shares](https://github.com/dhruv-setty/identity-governance-for-legacy-linux-file-shares) | A SailPoint IdentityIQ project that brings POSIX permissions, ACLs and NFSv3 exports on legacy file servers under request, approval and certification. |
 
-#### Writing
+#### Publications
 
 <p>
   <a href="https://dhruvsetty.substack.com/p/from-intent-to-evidence-building"><img src="assets/post-intent-to-evidence.svg" alt="From Intent to Evidence: Building Identity Controls That Leave Proof" width="32%"></a>
@@ -46,7 +46,7 @@ I come from identity-sensitive roles: KYC and AML/CFT checks in retail banking, 
   <a href="https://dhruvsetty.substack.com/p/azure-boost-and-the-zero-trust-io"><img src="assets/post-azure-boost-io.svg" alt="Azure Boost and the Zero-Trust I/O Path Under GDPR" width="32%"></a>
 </p>
 
-#### Outside work
+#### Research interests
 
 - **Embedded systems engineering.** [Stage 2 translation and TLB maintenance](https://github.com/dhruv-setty/stage-2-translation-and-tlb-maintenance) and [PCIe, DMA and TLB hardware with formal checks](https://github.com/dhruv-setty/pcie-dma-and-tlb-hardware-with-formal-checks) on Arm.
 - **Scaling AI chips.** How inference splits across accelerators and edge devices, explored in [Split SPDE-GMRF inference for lane perception](https://github.com/dhruv-setty/split-spde-gmrf-inference-for-lane-perception).
