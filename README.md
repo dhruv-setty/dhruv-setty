@@ -35,9 +35,9 @@ I come from identity-sensitive roles: KYC and AML/CFT checks in retail banking, 
 
 | Project | Relevance to the desk |
 | --- | --- |
-| [Read-only Entra ID and Graph exports](https://github.com/dhruv-setty/entra-graph-readonly-exports) | Answers "who has access to what" from a read-only export, without changing the tenant. |
-| [Entra ID sign in for Debian with SSSD](https://github.com/dhruv-setty/entra-id-debian-sssd) | Shows how a disabled account loses server access, so users get accurate timing. |
-| [Identity governance for legacy Linux file shares](https://github.com/dhruv-setty/sailpoint-iiq-linux-fs-governance) | Starter, mover and leaver changes with old access removed before new access is granted. |
+| [Read-only Entra ID and Graph exports](https://github.com/dhruv-setty/read-only-entra-id-and-graph-exports) | Answers "who has access to what" from a read-only export, without changing the tenant. |
+| [Entra ID sign in for Debian with SSSD](https://github.com/dhruv-setty/entra-id-sign-in-for-debian-with-sssd) | Shows how a disabled account loses server access, so users get accurate timing. |
+| [Identity governance for legacy Linux file shares](https://github.com/dhruv-setty/identity-governance-for-legacy-linux-file-shares) | Starter, mover and leaver changes with old access removed before new access is granted. |
 
 #### Writing
 
@@ -49,8 +49,8 @@ I come from identity-sensitive roles: KYC and AML/CFT checks in retail banking, 
 
 #### Outside work
 
-- **Embedded systems engineering.** [Stage 2 translation and TLB maintenance](https://github.com/dhruv-setty/arm-el2-stage2-tlb-verification) and [PCIe, DMA and TLB hardware with formal checks](https://github.com/dhruv-setty/arm-coherence-pcie-formal-rtl) on Arm.
-- **Scaling AI chips.** How inference splits across accelerators and edge devices, explored in [Split SPDE-GMRF inference for lane perception](https://github.com/dhruv-setty/spde-gmrf-lane-perception).
+- **Embedded systems engineering.** [Stage 2 translation and TLB maintenance](https://github.com/dhruv-setty/stage-2-translation-and-tlb-maintenance) and [PCIe, DMA and TLB hardware with formal checks](https://github.com/dhruv-setty/pcie-dma-and-tlb-hardware-with-formal-checks) on Arm.
+- **Scaling AI chips.** How inference splits across accelerators and edge devices, explored in [Split SPDE-GMRF inference for lane perception](https://github.com/dhruv-setty/split-spde-gmrf-inference-for-lane-perception).
 
 #### Certifications
 
