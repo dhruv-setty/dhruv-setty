@@ -47,8 +47,6 @@ I come from identity-sensitive roles: KYC and AML/CFT checks in retail banking, 
 
 #### Outside work
 
-Personal interests, kept separate from my professional focus:
-
 - **Embedded systems engineering.** [Stage 2 translation and TLB maintenance](https://github.com/dhruv-setty/arm-el2-stage2-tlb-verification) and [cache coherence and PCIe ordering](https://github.com/dhruv-setty/arm-coherence-pcie-formal-rtl) on Arm.
 - **Scaling AI chips.** How inference splits across accelerators and edge devices, explored in [split SPDE-GMRF inference for lane perception](https://github.com/dhruv-setty/spde-gmrf-lane-perception).
 
