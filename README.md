@@ -33,11 +33,10 @@ I come from identity-sensitive roles: KYC and AML/CFT checks in retail banking, 
 
 #### Identity projects
 
-| Project | Description | Stack |
+| Project | Area | Summary |
 | --- | --- | --- |
-| [Read-only Entra ID and Graph exports](https://github.com/dhruv-setty/read-only-entra-id-and-graph-exports) | Read-only Microsoft Entra ID and Microsoft Graph exports with full pagination, for day-to-day access queries. | Python, Microsoft Graph |
-| [Entra ID sign in for Debian with SSSD](https://github.com/dhruv-setty/entra-id-sign-in-for-debian-with-sssd) | Command line tool that configures Debian hosts to authenticate Entra ID users through the SSSD `idp` provider, with MFA and Conditional Access applied. | C# (.NET 8), SSSD, Microsoft Graph |
-| [Identity governance for legacy Linux file shares](https://github.com/dhruv-setty/identity-governance-for-legacy-linux-file-shares) | Brings POSIX permissions, ACLs and NFSv3 exports under request, approval and certification, with revocations applied before new access. | SailPoint IdentityIQ, Java, Maven |
+| [Entra ID sign in for Debian with SSSD](https://github.com/dhruv-setty/entra-id-sign-in-for-debian-with-sssd) | IAM | A C# (.NET 8) command line tool that configures Debian hosts to authenticate Microsoft Entra ID users through the SSSD `idp` provider. |
+| [Identity governance for legacy Linux file shares](https://github.com/dhruv-setty/identity-governance-for-legacy-linux-file-shares) | IGA | A SailPoint IdentityIQ project that brings POSIX permissions, ACLs and NFSv3 exports on legacy file servers under request, approval and certification. |
 
 #### Writing
 
