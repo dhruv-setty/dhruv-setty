@@ -33,11 +33,11 @@ I come from identity-sensitive roles: KYC and AML/CFT checks in retail banking, 
 
 #### Identity projects
 
-| Project | Relevance to the desk |
-| --- | --- |
-| [Read-only Entra ID and Graph exports](https://github.com/dhruv-setty/read-only-entra-id-and-graph-exports) | Answers "who has access to what" from a read-only export, without changing the tenant. |
-| [Entra ID sign in for Debian with SSSD](https://github.com/dhruv-setty/entra-id-sign-in-for-debian-with-sssd) | Shows how a disabled account loses server access, so users get accurate timing. |
-| [Identity governance for legacy Linux file shares](https://github.com/dhruv-setty/identity-governance-for-legacy-linux-file-shares) | Starter, mover and leaver changes with old access removed before new access is granted. |
+| Project | Description | Stack |
+| --- | --- | --- |
+| [Read-only Entra ID and Graph exports](https://github.com/dhruv-setty/read-only-entra-id-and-graph-exports) | Read-only Microsoft Entra ID and Microsoft Graph exports with full pagination, for day-to-day access queries. | Python, Microsoft Graph |
+| [Entra ID sign in for Debian with SSSD](https://github.com/dhruv-setty/entra-id-sign-in-for-debian-with-sssd) | Command line tool that configures Debian hosts to authenticate Entra ID users through the SSSD `idp` provider, with MFA and Conditional Access applied. | C# (.NET 8), SSSD, Microsoft Graph |
+| [Identity governance for legacy Linux file shares](https://github.com/dhruv-setty/identity-governance-for-legacy-linux-file-shares) | Brings POSIX permissions, ACLs and NFSv3 exports under request, approval and certification, with revocations applied before new access. | SailPoint IdentityIQ, Java, Maven |
 
 #### Writing
 
