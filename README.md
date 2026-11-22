@@ -1,20 +1,20 @@
 ### Dhruv Setty
 
-**IT Support & Identity Administration · Level 1 Service Desk · Auckland, NZ**
+**IT Support & Identity Administration · Auckland, NZ**
 
 Open to service desk, IT support and IAM/IGA roles in Auckland.
 
 #### About me
 
-Level 1 service desk analyst in Auckland. I log, prioritise and resolve incidents and requests in ServiceNow to agreed SLAs, following ITIL incident, request and escalation practice, and support Microsoft 365 users with accounts, access, passwords and onboarding.
+I'm moving into Level 1 service desk support in Auckland. In my home lab I log, prioritise and resolve incidents and requests to agreed SLAs, following ITIL incident, request and escalation practice, and work through Microsoft 365 accounts, access, passwords and onboarding.
 
 I come from identity-sensitive roles: KYC and AML/CFT checks in retail banking, and patient identity reconciliation under the Health Information Privacy Code. That work is why I verify before I change anything, and why I am building towards Identity and Access Management (IAM) and Identity Governance and Administration (IGA).
 
 #### Current focus
 
-- Resolving more identity tickets at first contact: unlocks, resets, MFA re-registration, licensing and access requests.
+- Practising first-contact fixes for identity tickets: unlocks, resets, MFA re-registration, licensing and access requests.
 - Building depth in IAM and IGA: joiner, mover and leaver processes, least-privilege access, access reviews and audit-ready controls.
-- Growing from the service desk into an IAM or IGA analyst role.
+- Starting on the service desk and growing into an IAM or IGA analyst role.
 
 #### How I work a ticket
 
