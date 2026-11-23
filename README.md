@@ -25,13 +25,6 @@ Tools used: Active Directory, `samba-tool`, Microsoft 365 and Entra ID (mapped),
 
 All lab work runs on local virtual machines and Docker, not in production or a Microsoft 365 tenant. Write-up figures use synthetic fixed data points; the SLA figures are real script output over a sample queue.
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/skills-hexagon-dark.svg">
-    <img src="assets/skills-hexagon-light.svg" alt="Skills hexagon: Identity Governance, Hybrid Identity, Access Assurance, Federation and Auth, Systems and Virtualisation, Automation" width="760">
-  </picture>
-</p>
-
 #### Other interests
 
 The same habits run through my support work and my side projects: understand the system underneath, verify before changing it, and leave evidence behind.
