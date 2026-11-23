@@ -32,25 +32,20 @@ All lab work runs on local virtual machines and Docker, not in production or a M
   </picture>
 </p>
 
-#### Identity projects
+#### Other interests
 
-| Project | Objective |
-| --- | --- |
-| [Entra ID sign in for Debian with SSSD](https://github.com/dhruv-setty/entra-id-sign-in-for-debian-with-sssd) | A C# (.NET 8) command line tool that configures Debian hosts to authenticate Microsoft Entra ID users through the SSSD `idp` provider. |
-| [Identity governance for legacy Linux file shares](https://github.com/dhruv-setty/identity-governance-for-legacy-linux-file-shares) | A SailPoint IdentityIQ project that brings POSIX permissions, ACLs and NFSv3 exports on legacy file servers under request, approval and certification. |
+The same habits run through my support work and my side projects: understand the system underneath, verify before changing it, and leave evidence behind.
 
-#### Publications
+- **Virtualisation.** My home lab runs on virtual machines and containers, which led me into how hypervisors isolate guests: [Stage 2 translation and TLB maintenance](https://github.com/dhruv-setty/stage-2-translation-and-tlb-maintenance) models ARM stage 2 address translation and the TLB invalidation a hypervisor must get right.
+- **Embedded systems.** [PCIe, DMA and TLB hardware with formal checks](https://github.com/dhruv-setty/pcie-dma-and-tlb-hardware-with-formal-checks) looks at how devices move memory safely on ARM, proved with formal checks rather than spot tests.
+- **High performance computing (HPC).** How heavy workloads split across accelerators and edge devices, explored in [Split SPDE-GMRF inference for lane perception](https://github.com/dhruv-setty/split-spde-gmrf-inference-for-lane-perception).
+- **Identity on Linux.** Where identity meets infrastructure: [Entra ID sign in for Debian with SSSD](https://github.com/dhruv-setty/entra-id-sign-in-for-debian-with-sssd) and [Identity governance for legacy Linux file shares](https://github.com/dhruv-setty/identity-governance-for-legacy-linux-file-shares).
 
-<p>
-  <a href="https://dhruvsetty.substack.com/p/from-intent-to-evidence-building"><img src="assets/post-intent-to-evidence.svg" alt="From Intent to Evidence: Building Identity Controls That Leave Proof" width="32%"></a>
-  <a href="https://dhruvsetty.substack.com/p/zero-trust-starts-in-the-silicon"><img src="assets/post-zero-trust-silicon.svg" alt="Zero Trust Starts in the Silicon: Cobalt 200, Neoverse V3 and GDPR" width="32%"></a>
-  <a href="https://dhruvsetty.substack.com/p/azure-boost-and-the-zero-trust-io"><img src="assets/post-azure-boost-io.svg" alt="Azure Boost and the Zero-Trust I/O Path Under GDPR" width="32%"></a>
-</p>
+#### Research literature
 
-#### Research interests
-
-- **Embedded systems engineering.** [Stage 2 translation and TLB maintenance](https://github.com/dhruv-setty/stage-2-translation-and-tlb-maintenance) and [PCIe, DMA and TLB hardware with formal checks](https://github.com/dhruv-setty/pcie-dma-and-tlb-hardware-with-formal-checks) on Arm.
-- **Scaling AI chips.** How inference splits across accelerators and edge devices, explored in [Split SPDE-GMRF inference for lane perception](https://github.com/dhruv-setty/split-spde-gmrf-inference-for-lane-perception).
+- [From Intent to Evidence: Building Identity Controls That Leave Proof](https://dhruvsetty.substack.com/p/from-intent-to-evidence-building): turning access policy into controls that produce audit evidence.
+- [Zero Trust Starts in the Silicon: Cobalt 200, Neoverse V3 and GDPR](https://dhruvsetty.substack.com/p/zero-trust-starts-in-the-silicon): how ARM server hardware supports isolation and data protection.
+- [Azure Boost and the Zero-Trust I/O Path Under GDPR](https://dhruvsetty.substack.com/p/azure-boost-and-the-zero-trust-io): offloading storage and network I/O from the hypervisor, and what that means for trust.
 
 #### Certifications
 
