@@ -53,5 +53,5 @@ The same habits run through my support work and my side projects: understand the
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://substack.com/@dhruvsetty"><img src="assets/substack.svg" alt="" width="20" height="20" align="absmiddle"> Substack</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://huggingface.co/itsdhruvsetty"><img src="assets/huggingface.svg" alt="" width="20" height="20" align="absmiddle"> Hugging Face</a>
+  <a href="https://huggingface.co/dhruvsetty"><img src="assets/huggingface.svg" alt="" width="20" height="20" align="absmiddle"> Hugging Face</a>
 </p>
