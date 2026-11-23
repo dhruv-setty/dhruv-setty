@@ -6,23 +6,24 @@ Open to service desk, IT support and IAM/IGA roles in Auckland.
 
 #### About me
 
-I'm moving into Level 1 service desk support in Auckland. In my home lab I log, prioritise and resolve incidents and requests to agreed SLAs, following ITIL incident, request and escalation practice, and work through Microsoft 365 accounts, access, passwords and onboarding.
+Service desk and endpoint administration, built and tested in a home lab. I come from identity-sensitive roles: KYC and AML/CFT checks in retail banking, and patient identity reconciliation under the Health Information Privacy Code. I verify before I change anything, and I am building towards Identity and Access Management (IAM) and Identity Governance and Administration (IGA).
 
-I come from identity-sensitive roles: KYC and AML/CFT checks in retail banking, and patient identity reconciliation under the Health Information Privacy Code. That work is why I verify before I change anything, and why I am building towards Identity and Access Management (IAM) and Identity Governance and Administration (IGA).
+#### Home lab
 
-#### Current focus
+[bau-home-lab](https://github.com/dhruv-setty/bau-home-lab) holds reproducible lab projects for day to day service desk work, each with a runbook, scripts, evidence and a write-up.
 
-- Practising first-contact fixes for identity tickets: unlocks, resets, MFA re-registration, licensing and access requests.
-- Building depth in IAM and IGA: joiner, mover and leaver processes, least-privilege access, access reviews and audit-ready controls.
-- Starting on the service desk and growing into an IAM or IGA analyst role.
+| Project | What it covers | Outcome | Write-up |
+| --- | --- | --- | --- |
+| [Identity lifecycle](https://github.com/dhruv-setty/bau-home-lab/blob/main/projects/identity-lifecycle/README.md) | Joiner, mover, leaver and password reset on Samba AD in Docker, mapped to Microsoft 365 and Entra ID | Two starters provisioned, one move, one leaver fully offboarded, every change logged to a ticket | [Read](https://github.com/dhruv-setty/bau-home-lab/blob/main/writeups/identity-lifecycle.md) |
+| [Intune endpoint compliance](https://github.com/dhruv-setty/bau-home-lab/blob/main/projects/intune/README.md) | Autopilot hash collection, Windows compliance policy and device restrictions profile in Microsoft Graph format, local compliance check | Device remediated from 6 of 8 to 8 of 8 compliant | [Read](https://github.com/dhruv-setty/bau-home-lab/blob/main/writeups/intune-endpoint-compliance.md) |
+| [Service desk ticketing](https://github.com/dhruv-setty/bau-home-lab/blob/main/projects/ticketing/README.md) | Incident and request workflows, impact by urgency matrix, P1 to P4 SLAs, escalation, SLA report script | Eight ticket queue scored: six met, one at risk, one breached | [Read](https://github.com/dhruv-setty/bau-home-lab/blob/main/writeups/service-desk-ticketing.md) |
+| [CVE-2022-1388 review](https://github.com/dhruv-setty/bau-home-lab/blob/main/cve/CVE-2022-1388-f5-big-ip.md) | F5 BIG-IP authentication bypass: CVSS 3.1 table analysis and remediation | Exposure, impact and fix documented | |
 
-#### How I work a ticket
+Runbooks: [Microsoft 365](https://github.com/dhruv-setty/bau-home-lab/blob/main/runbooks/m365.md) · [Active Directory](https://github.com/dhruv-setty/bau-home-lab/blob/main/runbooks/active-directory.md) · [Intune](https://github.com/dhruv-setty/bau-home-lab/blob/main/runbooks/intune.md) · [Ticketing](https://github.com/dhruv-setty/bau-home-lab/blob/main/runbooks/ticketing.md) · [Troubleshooting](https://github.com/dhruv-setty/bau-home-lab/blob/main/runbooks/troubleshooting.md)
 
-1. **Verify** the caller before any account change.
-2. **Log and categorise** so the queue, SLA and reporting are right from the start.
-3. **Resolve at first contact** where the knowledge base allows.
-4. **Escalate cleanly** with symptoms, steps tried and user impact.
-5. **Close the loop** with the user and update the knowledge base.
+Tools used: Active Directory, `samba-tool`, Microsoft 365 and Entra ID (mapped), Intune, Windows Autopilot, BitLocker, Defender, Bash, PowerShell, Python, Docker, GitHub Actions.
+
+All lab work runs on local virtual machines and Docker, not in production or a Microsoft 365 tenant. Write-up figures use synthetic fixed data points; the SLA figures are real script output over a sample queue.
 
 <p align="center">
   <picture>
